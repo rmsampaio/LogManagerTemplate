@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XUGmZ2+8yNoOOQ7Gbc2U5oSoPY+faW5hvSFnL92aRDz9vZi6pTDstB/kSuDoOcsLH0naK32FaPy7+QFn8GKHKw==",
+  "dgSpecHash": "v7OeQmsCFhyWQuGlckqLBSymZ75f49PKna9C07QN/vyTfOGyhYMUDLTKc6uNXb+CF5LWSt57KgZmYgN+Y4Jkeg==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\LogManager.csproj",
+  "projectFilePath": "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\LogManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cbyk-dev\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\cbyk-dev\\.nuget\\packages\\microsoft.azure.services.appauthentication\\1.4.0\\microsoft.azure.services.appauthentication.1.4.0.nupkg.sha512",

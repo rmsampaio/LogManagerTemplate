@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\LogManager.csproj": {}
+    "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\LogManager.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\LogManager.csproj": {
+    "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\LogManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\LogManager.csproj",
+        "projectUniqueName": "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\LogManager.csproj",
         "projectName": "LogManager",
-        "projectPath": "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\LogManager.csproj",
+        "projectPath": "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\LogManager.csproj",
         "packagesPath": "C:\\Users\\cbyk-dev\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFinantec\\Git\\LogManager\\LogManager\\obj\\",
+        "outputPath": "C:\\ProjetosFinantec\\Github\\LogManagerTemplate\\LogManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
