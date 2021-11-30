@@ -1,0 +1,9 @@
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.AssemblyInfoInputs.cache
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.AssemblyInfo.cs
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.csproj.CoreCompileInputs.cache
+C:\ProjetosFinantec\Git\LogManager\LogManager\bin\Debug\netcoreapp3.1\LogManager.deps.json
+C:\ProjetosFinantec\Git\LogManager\LogManager\bin\Debug\netcoreapp3.1\LogManager.dll
+C:\ProjetosFinantec\Git\LogManager\LogManager\bin\Debug\netcoreapp3.1\LogManager.pdb
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.dll
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.pdb
+C:\ProjetosFinantec\Git\LogManager\LogManager\obj\Debug\netcoreapp3.1\LogManager.csprojAssemblyReference.cache
